@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Categories\\Delete.cshtml",
+      "TargetPath": "Views\\Categories\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15636,6 +15641,11 @@
     {
       "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Categories\\Details.cshtml",
+      "TargetPath": "Views\\Categories\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,8 +15659,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Categories\\Edit.cshtml",
+      "TargetPath": "Views\\Categories\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Categories\\Create.cshtml",
+      "TargetPath": "Views\\Categories\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Maycon\\Documentos\\codes\\dotnet\\dio\\ASPExample\\Views\\Categories\\Index.cshtml",
+      "TargetPath": "Views\\Categories\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
