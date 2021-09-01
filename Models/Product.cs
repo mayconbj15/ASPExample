@@ -1,13 +1,13 @@
-using System.Collections.Generic;
-
 namespace ASPExample.Models
 {
-    public class Category
+    public class Product
     {
         public int Id { get; set; }
 
         public string Description { get; set; }
 
-        public List<Product> Products { get; set; }
+        public int IdCategory { get; set; }
+
+        public Category Category { get; set; }
     }
 }
